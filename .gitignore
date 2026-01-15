@@ -4,10 +4,10 @@ __pycache__/
 *$py.class
 
 # Data
-data/
-PAMAP2_Dataset/
-*.zip
-*.dat
+# data/
+# PAMAP2_Dataset/
+# *.zip
+# *.dat
 
 # Environments
 .env
@@ -20,7 +20,7 @@ venv/
 .idea/
 
 # Logs and Artifacts
-*.log
-*.png
-*.pdf
-research_report.txt
+# *.log
+# *.png
+# *.pdf
+# research_report.txt
