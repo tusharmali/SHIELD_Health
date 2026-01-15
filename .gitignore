@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data
+data/
+PAMAP2_Dataset/
+*.zip
+*.dat
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs and Artifacts
+*.log
+*.png
+*.pdf
+research_report.txt
